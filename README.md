@@ -32,7 +32,7 @@ I had to give a presentation solo on a parer which explores how deep learning mo
 
 ### 2. Project work on a Paper **"Summary of Comparative Analysis of Multiple Machine Learning Models for Cloud-Based Intrusion Detection Systems"**  
 
-### Made by:
+## Made by:
 ---
 #### Habibun Nabi Hemel  
 #### Zonayed Hossain Siyam 
