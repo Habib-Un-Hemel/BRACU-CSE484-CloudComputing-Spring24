@@ -61,17 +61,34 @@ This project aims to evaluate multiple machine learning models for intrusion det
 - The model is not 100% accurate, so some errors may occur.  
 - Future work includes implementing more advanced ML models to improve detection.  
 
+
+### 2.1 Project Presentation Slides
 <p align="center">
   <img src="Photo/projectP.png"  title=" Project">
   <br>
   <br>
-  Figure 1:  Project Presentation
+  Figure 2:  Project Presentation
 </p>
 <br>
 
+### 2.2 Paper work 
+<p align="center">
+  <img src="Photo/paper.png"  title=" Project">
+  <br>
+  <br>
+  Figure 3:  paper pdf
+</p>
+<br>
 
+### 2.3 project Hosted on Streamlit  
+<p align="center">
+  <img src="Photo/projectLive.png"  title=" Project">
+  <br>
+  <br>
+  Figure 4: Project 
+</p>
+<br>
 
-
-
-Our project is live on https://cse484.streamlit.app/
+## 7. Walkthrough
+- Our project is live on https://cse484.streamlit.app/
 
